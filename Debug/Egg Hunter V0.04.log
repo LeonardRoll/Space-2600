@@ -1,0 +1,40 @@
+﻿Build started 20/04/2014 17:49:07.
+     1>Project "C:\Users\Steve\Desktop\Egg Hunter v0.04\Egg Hunter V0.04.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Egg Hunter V0.04.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         d:\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Input.cpp
+         Input.cpp
+         c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\steve\desktop\egg hunter v0.04\input.cpp(117): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\steve\desktop\egg hunter v0.04\input.cpp(129): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\steve\desktop\egg hunter v0.04\input.cpp(130): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\steve\desktop\egg hunter v0.04\input.cpp(132): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\steve\desktop\egg hunter v0.04\input.cpp(133): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\steve\desktop\egg hunter v0.04\input.cpp(135): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\steve\desktop\egg hunter v0.04\input.cpp(136): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\steve\desktop\egg hunter v0.04\input.cpp(138): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\steve\desktop\egg hunter v0.04\input.cpp(139): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\steve\desktop\egg hunter v0.04\input.cpp(141): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\steve\desktop\egg hunter v0.04\input.cpp(142): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         d:\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Steve\Desktop\Egg Hunter v0.04\Debug\Egg Hunter V0.04.exe" /NOLOGO d3d11.lib d3dcompiler.lib dinput8.lib dxguid.lib d3dx11d.lib d3dx9d.lib dxerr.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Egg Hunter V0.04.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Steve\Desktop\Egg Hunter v0.04\Debug\Egg Hunter V0.04.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Steve\Desktop\Egg Hunter v0.04\Debug\Egg Hunter V0.04.lib" /MACHINE:X86 Debug\camera.obj
+         Debug\DXBase.obj
+         Debug\Input.obj
+         Debug\main.obj
+         Debug\model.obj
+         Debug\objfilemodel.obj
+         Debug\scene_node.obj
+         Debug\text2D.obj
+         LINK : C:\Users\Steve\Desktop\Egg Hunter v0.04\Debug\Egg Hunter V0.04.exe not found or not built by the last incremental link; performing full link
+         Egg Hunter V0.04.vcxproj -> C:\Users\Steve\Desktop\Egg Hunter v0.04\Debug\Egg Hunter V0.04.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Steve\Desktop\Egg Hunter v0.04\Debug\Egg Hunter V0.04.exe;#1" /manifest "Debug\Egg Hunter V0.04.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Egg Hunter V0.04.unsuccessfulbuild".
+         Touching "Debug\Egg Hunter V0.04.lastbuildstate".
+     1>Done Building Project "C:\Users\Steve\Desktop\Egg Hunter v0.04\Egg Hunter V0.04.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.75

@@ -1,0 +1,196 @@
+﻿Build started 13/09/2014 17:50:09.
+     1>Project "C:\Users\Raymund\Downloads\Desktop 3\CLEAN THIS\Space 2600 v9\Space 2600.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Space 2600.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt camera.cpp DXBase.cpp HUD.cpp Input.cpp main.cpp Maths.cpp model.cpp objfilemodel.cpp Player.cpp scene_node.cpp text2D.cpp
+         text2D.cpp
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\text2d.cpp(122): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\text2d.cpp(129): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\text2d.cpp(165): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\text2d.cpp(170): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\text2d.cpp(175): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\text2d.cpp(187): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\text2d.cpp(189): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\text2d.cpp(190): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\text2d.cpp(193): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\text2d.cpp(194): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\text2d.cpp(196): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+         scene_node.cpp
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\scene_node.cpp(182): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\scene_node.cpp(192): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\scene_node.cpp(209): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\scene_node.cpp(225): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\scene_node.cpp(226): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\scene_node.cpp(246): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\scene_node.cpp(247): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\scene_node.cpp(265): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\scene_node.cpp(266): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\scene_node.cpp(267): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\scene_node.cpp(313): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\scene_node.cpp(349): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\scene_node.cpp(354): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\scene_node.cpp(433): warning C4018: '<' : signed/unsigned mismatch
+         Player.cpp
+         objfilemodel.cpp
+         model.cpp
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\model.cpp(309): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\model.cpp(314): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\model.cpp(315): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\model.cpp(324): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\model.cpp(325): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\model.cpp(330): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\model.cpp(331): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\model.cpp(332): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\model.cpp(339): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\model.cpp(367): warning C4018: '<' : signed/unsigned mismatch
+         Maths.cpp
+         main.cpp
+         c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\main.cpp(84): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\main.cpp(84): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\main.cpp(258): warning C4244: '=' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\main.cpp(259): warning C4244: '=' : conversion from 'int' to 'FLOAT', possible loss of data
+         Input.cpp
+         c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\input.cpp(124): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\input.cpp(291): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\input.cpp(292): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\input.cpp(306): warning C4552: '+' : operator has no effect; expected operator with side-effect
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\input.cpp(311): warning C4552: '-' : operator has no effect; expected operator with side-effect
+         HUD.cpp
+         DXBase.cpp
+         c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(159): warning C4244: '=' : conversion from 'UINT' to 'FLOAT', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(160): warning C4244: '=' : conversion from 'UINT' to 'FLOAT', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(223): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(289): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(302): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(304): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(307): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(309): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(313): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(323): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(334): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(342): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(343): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(367): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(592): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(641): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(693): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(693): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(693): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(699): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(708): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(708): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(708): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(717): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(718): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(718): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(718): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(726): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(727): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(727): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(727): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(732): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(735): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(736): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(736): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(736): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(747): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(753): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(758): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(764): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(798): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(804): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(810): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(817): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(826): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(827): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(827): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(828): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(828): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(847): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(847): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(847): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(861): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(861): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(861): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(866): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(866): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(866): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(880): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(885): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(899): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(899): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(904): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(904): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(918): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(918): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(918): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(923): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(923): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(923): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(938): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(938): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(938): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(943): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(943): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(943): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(948): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(948): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(948): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(952): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(952): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(952): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(957): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(957): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(961): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(961): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(993): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(993): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\dxbase.cpp(993): warning C4305: 'argument' : truncation from 'double' to 'float'
+         camera.cpp
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\camera.cpp(19): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\camera.cpp(20): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\camera.cpp(21): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\camera.cpp(34): warning C4244: 'argument' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\camera.cpp(34): warning C4244: 'argument' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\camera.cpp(34): warning C4244: 'argument' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\camera.cpp(47): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\camera.cpp(48): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\camera.cpp(67): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\camera.cpp(68): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\camera.cpp(69): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\camera.cpp(79): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\camera.cpp(80): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\camera.cpp(81): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\camera.cpp(87): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\camera.cpp(88): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\camera.cpp(96): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         Generating Code...
+     1>c:\users\raymund\downloads\desktop 3\clean this\space 2600 v9\input.cpp(314): warning C4715: 'Input::GetMomentum' : not all control paths return a value
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Raymund\Downloads\Desktop 3\CLEAN THIS\Space 2600 v9\Debug\Space 2600.exe" /NOLOGO d3d11.lib d3dcompiler.lib dinput8.lib dxguid.lib d3dx11d.lib d3dx9d.lib dxerr.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Space 2600.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Raymund\Downloads\Desktop 3\CLEAN THIS\Space 2600 v9\Debug\Space 2600.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Raymund\Downloads\Desktop 3\CLEAN THIS\Space 2600 v9\Debug\Space 2600.lib" /MACHINE:X86 Debug\camera.obj
+         Debug\DXBase.obj
+         Debug\HUD.obj
+         Debug\Input.obj
+         Debug\main.obj
+         Debug\Maths.obj
+         Debug\model.obj
+         Debug\objfilemodel.obj
+         Debug\Player.obj
+         Debug\scene_node.obj
+         Debug\text2D.obj
+         LINK : C:\Users\Raymund\Downloads\Desktop 3\CLEAN THIS\Space 2600 v9\Debug\Space 2600.exe not found or not built by the last incremental link; performing full link
+         Space 2600.vcxproj -> C:\Users\Raymund\Downloads\Desktop 3\CLEAN THIS\Space 2600 v9\Debug\Space 2600.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Raymund\Downloads\Desktop 3\CLEAN THIS\Space 2600 v9\Debug\Space 2600.exe;#1" /manifest "Debug\Space 2600.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Space 2600.unsuccessfulbuild".
+         Touching "Debug\Space 2600.lastbuildstate".
+     1>Done Building Project "C:\Users\Raymund\Downloads\Desktop 3\CLEAN THIS\Space 2600 v9\Space 2600.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.06
